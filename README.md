@@ -17,3 +17,5 @@ Aplikacja internetowa działająca jako inteligentny agent AI (chatbot), który 
 ## Jak uruchomić projekt
 1. Otwórz plik `index.html` w dowolnej przeglądarce internetowej.
 2. Lub po prostu wklej https://grl98.github.io/asystent-pogodowy/ do dowolnej przeglądarki. 
+
+Szymon Graczyk 36788 i Marcel Dominikowski 60125
