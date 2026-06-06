@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asystent pogodowy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="chat-container">
+        <div class="chat-header">
+            Asystent pogodowy
+        </div>
+
+        <div id="chat-box" class="chat-box">
+            <div class="bot-message">Cześć! Napisz mi, jaka jest pogoda (np. zimno, deszcz, slonce), a powiem Ci, co założyć.</div>
+        </div>
+
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Wpisz pogodę...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
